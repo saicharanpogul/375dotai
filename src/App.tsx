@@ -20,7 +20,7 @@ function App() {
           <div className="max-w-7xl mx-auto w-full relative overflow-hidden h-full md:h-[40rem] px-4">
             <div>
               <h2 className="text-center text-xl md:text-4xl font-bold text-white">
-                Campaign for maps.fun by{" "}
+                Campaign for 375.ai by{" "}
                 <a
                   className="underline"
                   href="https://x.com/pogul_saicharan"
